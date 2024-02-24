@@ -1,0 +1,21 @@
+{
+    "BotMaker_Cuopon_1210916447556210708": [
+        {
+            "server": "1210916447556210708",
+            "coupon": "max",
+            "max": 1,
+            "discount": 100
+        }
+    ],
+    "UsedCode_max": [
+        "1210290856087519333"
+    ],
+    "BotMaker_Cuopon_1210924018815991828": [
+        {
+            "server": "1210924018815991828",
+            "coupon": "portaUP",
+            "max": 1,
+            "discount": 100
+        }
+    ]
+}
